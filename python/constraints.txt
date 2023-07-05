@@ -1,4 +1,4 @@
-grpcio==1.19.0
+grpcio==1.53.0
 
 # The version makes sure that protobufs are compiled without the serialized_options which
 # breaks if older protobuf libraries are used.
